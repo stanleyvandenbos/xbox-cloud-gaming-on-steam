@@ -37,7 +37,7 @@ Launch the 'game', login to your Microsoft (Xbox) account and start playing!
 
 -----
 
-# Extra options
+## Extra options
 
 TODO!
 
