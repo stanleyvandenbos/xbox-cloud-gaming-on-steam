@@ -37,5 +37,8 @@ Launch the 'game', login to your Microsoft (Xbox) account and start playing!
 
 -----
 
+# Extra options
+
+TODO!
 
 [^1]: Optionally you can add `--disable-gpu-vsync --disable-frame-rate-limit` to the [launch options](#launch-options) to unlock fps.
